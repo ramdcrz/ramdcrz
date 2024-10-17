@@ -39,6 +39,7 @@ the opportunities that are given to me. </p>
     https://www.coursera.org/account/accomplishments/specialization/certificate/VEYQMNQ8MKF2 </li>
 </ul>
 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
  🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
