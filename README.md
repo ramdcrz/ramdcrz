@@ -20,7 +20,7 @@ the opportunities that are given to me. </p>
   <li> Java Programming </li>
   <li> Technical Support </li>
   <li> Content Curation </li>
-  <li> Graphic Design </li>
+  <li> ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) Graphic Design </li>
 </ul>
 
 <h2> 📃 I have obtained certifications at... </h2>
