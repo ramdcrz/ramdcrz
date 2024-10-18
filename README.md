@@ -1,56 +1,59 @@
-<h1> 👋 Hi there, I'm Ramil Deocariza Jr.! </h1>
-<p> I am a second year Bachelor of Science in Computer Science striving to learn every day
-regarding the trends in Information Technology field. I always strive to make myself worthy of
-the opportunities that are given to me. </p>
+<h1 align="center"> 👋 Hello, I'm Ramil Deocariza Jr.! </h1>
 
-<h2> 🏫 I'm currently studying at... </h2>
-<ul>
-  <li> New Era University (2023 - Present) </li>
-</ul>
-
-<h2> 🌱 I’m currently learning... </h2>
-<ul>
-  <li> Information Management (SQL) </li>
-  <li> Japanese Language Elective </li>
-</ul>
-
-<h2> 🤹‍♀️ I'm skilled at... </h2>
-<ul>
-  <li> Front-end Web Development (HTML & CSS) </li>
-  <li> Java Programming </li>
-  <li> Technical Support </li>
-  <li> Content Curation </li>
-  <li> Graphic Design </li>
-</ul>
-
-<h2> 📃 I have obtained certifications at... </h2>
-<ul>
-  <li><b> Technical Support Fundamentals </b>
-    https://www.coursera.org/account/accomplishments/certificate/FX5XTAS9F6Y2 </li>
-  <li><b> The Bits and Bytes of Computer Networking </b>
-    https://www.coursera.org/account/accomplishments/certificate/WA92Y6YLCMUX </li>
-
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramdcrz) 
-
-# 💻 Tech Stack:
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ramdcrz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramdcrz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdcrz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  A passionate <b>Computer Science Student</b> from the Philippines, always eager to learn and grow in the ever-evolving field of <b>Information Technology</b>.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ramdcrz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  <li><b> System Administration and IT Infrastructure Services </b> 
-    https://www.coursera.org/account/accomplishments/certificate/6NTC9N8ERUJE </li>
-  <li><b> Operating Systems and You: Becoming a Power User </b> 
-    https://www.coursera.org/account/accomplishments/certificate/3R4REY3BYM97 </li>
-  <li><b> IT Security: Defense against the digital dark arts </b> 
-    https://www.coursera.org/account/accomplishments/certificate/GHEQRBH6NFRJ </li>
-  <li><b> Google IT Support </b> 
-    https://www.coursera.org/account/accomplishments/specialization/certificate/VEYQMNQ8MKF2 </li>
+<h2> 👨‍💻 About Me </h2>
+<p> 
+  I am currently a second-year student at New Era University, working towards my Bachelor of Science in Computer Science. 
+  I believe in constant growth, and I am committed to honing my technical skills while staying adaptable to the latest trends in technology. 
+  My ultimate goal is to be worthy of every opportunity I receive, while giving back through service and teamwork.
+</p>
+
+<h2> 🎯 What I’m Focused on Right Now </h2>
+<ul>
+  <li> 📚 <b>Learning:</b> SQL through Information Management</li>
+  <li> 🇯🇵 <b>Exploring:</b> Japanese language & culture through elective courses</li>
+  <li> 🖥️ <b>Developing:</b> Front-end web projects using HTML & CSS</li>
 </ul>
+
+<h2> 💼 Current Involvements </h2>
+<ul>
+  <li> 🎓 <b>BS Computer Science Student</b> at New Era University (2023 - Present)</li>
+  <li> 🗣️ <b>Publicity Associate</b> at National Youth Empowerment Circle (2024 - Present)</li>
+</ul>
+
+<h2> 💻 Technical Skills </h2>
+<ul>
+  <li> 🌐 Front-end web development (HTML, CSS)</li>
+  <li> ☕ Java programming</li>
+  <li> 🛠️ Technical support</li>
+  <li> 🎨 Graphic design</li>
+  <li> 💻 Content curation</li>
+</ul>
+
+<h2> 📜 Certifications </h2>
+<ul>
+  <li> <b> Google IT Support </b> (https://www.coursera.org/account/accomplishments/specialization/certificate/VEYQMNQ8MKF2) </li>
+  <li> <b> Technical Support Fundamentals </b> (https://www.coursera.org/account/accomplishments/certificate/FX5XTAS9F6Y2) </li>
+  <li> <b> The Bits and Bytes of Computer Networking </b> (https://www.coursera.org/account/accomplishments/certificate/WA92Y6YLCMUX) </li>
+  <li> <b> System Administration and IT Infrastructure Services </b> (https://www.coursera.org/account/accomplishments/certificate/6NTC9N8ERUJE) </li>
+  <li> <b> Operating Systems and You: Becoming a Power User </b> (https://www.coursera.org/account/accomplishments/certificate/3R4REY3BYM97) </li>
+  <li> <b> IT Security: Defense Against the Digital Dark Arts </b> (https://www.coursera.org/account/accomplishments/certificate/GHEQRBH6NFRJ) </li>
+</ul>
+
+<h2> 🌟 What I Value </h2>
+<ul>
+  <li> 🤝 Teamwork & Collaboration</li>
+  <li> 💡 Continuous Learning & Innovation</li>
+  <li> 🎯 Dedication & Persistence</li>
+</ul>
+
+<h2> 📫 Let's Connect! </h2>
+<p>Feel free to reach out to me via:</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramdcrz) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ramdcrz)
