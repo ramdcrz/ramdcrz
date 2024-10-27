@@ -37,6 +37,7 @@
 
 <h2> 📜 Certifications </h2>
 <ul>
+  <li> <b> SQL and Relational Databases 101 </b> (https://courses.cognitiveclass.ai/certificates/6b155fc670ed4af5a892c212fe2f5a95) </li>
   <li> <b> Google IT Support </b> (https://www.coursera.org/account/accomplishments/specialization/certificate/VEYQMNQ8MKF2) </li>
   <li> <b> Technical Support Fundamentals </b> (https://www.coursera.org/account/accomplishments/certificate/FX5XTAS9F6Y2) </li>
   <li> <b> The Bits and Bytes of Computer Networking </b> (https://www.coursera.org/account/accomplishments/certificate/WA92Y6YLCMUX) </li>
