@@ -38,7 +38,7 @@
 <h2> 📜 Certifications </h2>
 <ul>
   <li> <b> Oracle Cloud Infrastructure 2024 Certified Foundations Associate </b>
-(https://catalog-education.oracle.com/pls/certview/sharebadgeid=6995CE1E84FCA32BD29BE1C364E24A8EBAFF2C4CB65038E6F77AC5F69CEF31D3) </li>
+(https://catalog-education.oracle.com/pls/certview/sharebadge?id=6995CE1E84FCA32BD29BE1C364E24A8EBAFF2C4CB65038E6F77AC5F69CEF31D3)) </li>
   <li> <b> SQL and Relational Databases 101 </b> (https://courses.cognitiveclass.ai/certificates/6b155fc670ed4af5a892c212fe2f5a95) </li>
   <li> <b> Google IT Support </b> (https://www.coursera.org/account/accomplishments/specialization/certificate/VEYQMNQ8MKF2) </li>
   <li> <b> Technical Support Fundamentals </b> (https://www.coursera.org/account/accomplishments/certificate/FX5XTAS9F6Y2) </li>
