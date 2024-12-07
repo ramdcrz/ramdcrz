@@ -37,6 +37,8 @@
 
 <h2> 📜 Certifications </h2>
 <ul>
+  <li> <b> Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate </b>
+(https://catalog-education.oracle.com/ords/certview/sharebadge?id=6995CE1E84FCA32BD29BE1C364E24A8EF769D2346F5CD0D4F548A01387461F61)) </li>
   <li> <b> Oracle Cloud Infrastructure 2024 Certified Foundations Associate </b>
 (https://catalog-education.oracle.com/pls/certview/sharebadge?id=6995CE1E84FCA32BD29BE1C364E24A8EBAFF2C4CB65038E6F77AC5F69CEF31D3)) </li>
   <li> <b> SQL and Relational Databases 101 </b> (https://courses.cognitiveclass.ai/certificates/6b155fc670ed4af5a892c212fe2f5a95) </li>
