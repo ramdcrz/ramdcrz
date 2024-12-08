@@ -37,6 +37,8 @@
 
 <h2> 📜 Certifications </h2>
 <ul>
+  <li> <b> Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate </b>
+(https://catalog-education.oracle.com/ords/certview/sharebadge?id=D5E7722C21E33B5D1765CB1645863F37E5C7CFFB57DA029D59133724E3583944)) </li>
   <li> <b> Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate </b>
 (https://catalog-education.oracle.com/ords/certview/sharebadge?id=6995CE1E84FCA32BD29BE1C364E24A8EF769D2346F5CD0D4F548A01387461F61)) </li>
   <li> <b> Oracle Cloud Infrastructure 2024 Certified Foundations Associate </b>
