@@ -15,9 +15,11 @@
 
 <h2> 🎯 What I’m Focused on Right Now </h2>
 <ul>
-  <li> 📚 <b>Learning:</b> SQL through Information Management</li>
-  <li> 🇯🇵 <b>Exploring:</b> Japanese language & culture through elective courses</li>
-  <li> 🖥️ <b>Developing:</b> Front-end web projects using HTML & CSS</li>
+  <li> 📚 <b>Learning</b> SQL through Information Management </li>
+  <li> 🇯🇵 <b>Exploring</b> Japanese language & culture through an elective course </li>
+  <li> 🖥️ <b>Developing</b> front-end web projects using HTML & CSS </li>
+  <li> 🖼️ <b>Designing</b> publicity materials using Canva, Affinity Photo 2 & Adobe Photoshop </li>
+  <li> 👥 <b>Expanding</b> connections through organizations & events </li>
 </ul>
 
 <h2> 💼 Current Involvements </h2>
@@ -29,6 +31,7 @@
 <h2> 💻 Technical Skills </h2>
 <ul>
   <li> 🌐 Front-end web development (HTML, CSS)</li>
+  <li> 📊 Data visualization (Lucidchart & JasperReports)</li>
   <li> ☕ Java programming</li>
   <li> 🛠️ Technical support</li>
   <li> 🎨 Graphic design</li>
@@ -36,16 +39,12 @@
 </ul>
 
 <h2> 📜 Certifications </h2>
-<ul>
-  <table border="1" cellspacing="5" cellpadding="5" summary="This table lists certifications and the organizations that issued them.">>
-    <colgroup>
-        <col width="70%">
-        <col width="30%">
-    </colgroup>
+  <table align="center">
     <thead>
         <tr bgcolor="#d3d3d3">
             <th scope="col">Title</th>
             <th scope="col">Issued By</th>
+            <th scope="col">Obtained In</th>
         </tr>
     </thead>
     <tbody>
@@ -54,64 +53,73 @@
                 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D5E7722C21E33B5D1765CB1645863F37E5C7CFFB57DA029D59133724E3583944" title="View Certification">Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</a>
             </td>
             <td>Oracle</td>
+            <td>2024</td>
         </tr>
         <tr bgcolor="#f2f2f2">
             <td>
                 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6995CE1E84FCA32BD29BE1C364E24A8EF769D2346F5CD0D4F548A01387461F61" title="View Certification">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a>
             </td>
             <td>Oracle</td>
+            <td>2024</td>
         </tr>
         <tr>
             <td>
                 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6995CE1E84FCA32BD29BE1C364E24A8EBAFF2C4CB65038E6F77AC5F69CEF31D3" title="View Certification">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a>
             </td>
             <td>Oracle</td>
+            <td>2024</td>
         </tr>
         <tr bgcolor="#f2f2f2">
             <td>
                 <a href="https://courses.cognitiveclass.ai/certificates/6b155fc670ed4af5a892c212fe2f5a95" title="View Certification">SQL and Relational Databases 101</a>
             </td>
             <td>Cognitive Class</td>
+            <td>2024</td>
         </tr>
         <tr>
             <td>
                 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VEYQMNQ8MKF2" title="View Certification">Google IT Support</a>
             </td>
             <td>Google</td>
+            <td>2023</td>
         </tr>
         <tr bgcolor="#f2f2f2">
             <td>
                 <a href="https://www.coursera.org/account/accomplishments/certificate/FX5XTAS9F6Y2" title="View Certification">Technical Support Fundamentals</a>
             </td>
             <td>Google</td>
+            <td>2023</td>
         </tr>
         <tr>
             <td>
                 <a href="https://www.coursera.org/account/accomplishments/certificate/WA92Y6YLCMUX" title="View Certification">The Bits and Bytes of Computer Networking</a>
             </td>
             <td>Google</td>
+            <td>2023</td>
         </tr>
         <tr bgcolor="#f2f2f2">
             <td>
                 <a href="https://www.coursera.org/account/accomplishments/certificate/6NTC9N8ERUJE" title="View Certification">System Administration and IT Infrastructure Services</a>
             </td>
             <td>Google</td>
+            <td>2023</td>
         </tr>
         <tr>
             <td>
                 <a href="https://www.coursera.org/account/accomplishments/certificate/3R4REY3BYM97" title="View Certification">Operating Systems and You: Becoming a Power User</a>
             </td>
             <td>Google</td>
+            <td>2023</td>
         </tr>
         <tr bgcolor="#f2f2f2">
             <td>
                 <a href="https://www.coursera.org/account/accomplishments/certificate/GHEQRBH6NFRJ" title="View Certification">IT Security: Defense Against the Digital Dark Arts</a>
             </td>
             <td>Google</td>
+            <td>2023</td>
         </tr>
     </tbody>
 </table>
-</ul>
 
 <h2> 🌟 What I Value </h2>
 <ul>
