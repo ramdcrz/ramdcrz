@@ -25,7 +25,9 @@
 <h2> 💼 Current Involvements </h2>
 <ul>
   <li> 🎓 <b>BS Computer Science Student</b> at New Era University (2023 - Present)</li>
-  <li> 🗣️ <b>Publicity Associate</b> at National Youth Empowerment Circle (2024 - Present)</li>
+  <li> 🗣️ <b>Vice President for Publicity</b> at National Youth Empowerment Circle (2025 - Present)</li>
+  <li> 🗣️ <b>Publicity Associate</b> at National Youth Empowerment Circle (2024 - 2025)</li>
+  <li> 🗣️ <b>Documentations Committee Member</b> at Association of Computer Science Students (2025 - Present)</li>
 </ul>
 
 <h2> 💻 Technical Skills </h2>
