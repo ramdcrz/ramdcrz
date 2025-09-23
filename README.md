@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hello, I'm Ramil Deocariza Jr.! </h1>
+<h1 align="center"> 👋 Hello, I'm Ram!</h1>
 
 <p align="center">
   A passionate <b>Computer Science Student</b> from the Philippines, always eager to learn and grow in the ever-evolving field of <b>Information Technology</b>.
