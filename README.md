@@ -8,7 +8,7 @@
 
 <h2> 👨‍💻 About Me </h2>
 <p> 
-  I am currently a second-year student at New Era University, working towards my Bachelor of Science in Computer Science. 
+  I am currently a third-year student at New Era University, working towards my Bachelor of Science in Computer Science. 
   I believe in constant growth, and I am committed to honing my technical skills while staying adaptable to the latest trends in technology. 
   My ultimate goal is to be worthy of every opportunity I receive, while giving back through service and teamwork.
 </p>
